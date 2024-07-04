@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
+    <ProjectReference Include="..\CarLoanManagementAPI.Services\CarLoanManagementAPI.Services.csproj" />
   </ItemGroup>
 
 </Project>
